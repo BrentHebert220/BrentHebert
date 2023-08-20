@@ -1,5 +1,4 @@
-{
-  "Presidents": [
+[
     {
       "id": 1,
       "Name": "George Washington",
@@ -553,4 +552,4 @@
       "Image": "https://raw.githubusercontent.com/BrentHebert220/BrentHebert/main/p46_joseph_biden.png"
     }
   ]
-}
+
